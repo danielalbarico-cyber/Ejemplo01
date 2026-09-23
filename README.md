@@ -15,3 +15,9 @@ Hemos colaborado en el proyecto:
 
 Esta modificacion nos sirve para aprender markdown que por ejemplo los titulos <H1></H1> los coloca con una
 almoadilla
+
+[Gregorio Fernandez](https://www.gregoriofer.com)
+
+| Version | Modificacion | Propietario de la modificacion |
+| ---- | ---- | ---- |
+| 1.0 | Creacion del readme | Victor Vergel |
