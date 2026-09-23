@@ -20,4 +20,6 @@ almoadilla
 
 | Version | Modificacion | Propietario de la modificacion |
 | ---- | ---- | ---- |
-| 1.0 | Creacion del readme | Victor Vergel |
+| 1.0 | Creacion del readme | Daniel Alba |
+
+Todos los formatos fueron sacados de la sigiente fuente: [Formatos con Markdown](https://www.markdownguide.org/cheat-sheet/)
